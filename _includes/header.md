@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP COMPUTER SCIENCE PRINICPLES]({{ "/" | relative_url }})
 
 Walnut Grove Secondary School\\
 2019–2020
